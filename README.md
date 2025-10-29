@@ -1,3 +1,7 @@
+ <div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  style="width:100%; max-width:1600px;"/>
+  </div>
+
 # 🎥 vidFlow
 
 vidFlow é uma plataforma de vídeos desenvolvida com HTML, CSS e JavaScript, que utiliza uma API simulada (JSON Server) para carregar e exibir vídeos de forma dinâmica.

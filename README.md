@@ -56,6 +56,12 @@ http://localhost:3000
 ### 🌐 5. Abrir o projeto
 Abra o arquivo index.html no seu navegador ou use a extensão Live Server (VS Code).
 
+### 👩‍💻 Autores
+
+- **Daniel Leal Pimenta**  
+  - GitHub: [@daniellealpimenta](https://github.com/daniellealpimenta)  
+  - LinkedIn: [Daniel Leal Pimenta](https://www.linkedin.com/in/daniel-leal-pimenta)  
+
 ---
 
 # 🌍 English Version
@@ -106,3 +112,9 @@ http://localhost:3000
 
 ### 🌐 5. Open the project
 Open the index.html file in your browser or use Live Server in VS Code.
+
+### 👩‍💻 Authors  
+
+- **Daniel Leal Pimenta**  
+  - GitHub: [@daniellealpimenta](https://github.com/daniellealpimenta)  
+  - LinkedIn: [Daniel Leal Pimenta](https://www.linkedin.com/in/daniel-leal-pimenta)  
